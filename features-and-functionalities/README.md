@@ -111,6 +111,11 @@ The system must provide the essential features required for a rental marketplace
   - `Reviews`
   - `Payments`
 
+📌 **Database Schema**  
+The ERD below provides a visual representation of the database design:
+
+![Database Schema](./database_document.png)
+
 ---
 
 ### 2. API Development
