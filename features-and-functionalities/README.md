@@ -114,8 +114,7 @@ The system must provide the essential features required for a rental marketplace
 📌 **Database Schema**  
 The ERD below provides a visual representation of the database design:
 
-![Database flowchart](./Database FlowChart.drawio.png)
-
+![Database Schema](./Database%20FlowChart.drawio.png)
 ---
 
 ### 2. API Development
